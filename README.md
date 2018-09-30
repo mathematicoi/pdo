@@ -1,1 +1,1 @@
-# pdo
+# These PHP, PDO, and MySQL files begins a journey with PHP, MySQL, and PDO with MySQL. My first program is a basic accounts manager, keeping track of people, as well as the net income from them. The Net Profit is calculated on the whole net sum of all revenue from all the people. I could add and delete the people, and thus, the net profit will update too. 
